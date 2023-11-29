@@ -1,0 +1,20 @@
+{
+  "name": "astro-kwes-forms",
+  "version": "1.0.0",
+  "description": "Test Repo for Kwes Forms",
+  "main": "index.js",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@astrojs/partytown": "^2.0.2",
+    "@builder.io/partytown": "^0.8.1",
+    "astro": "^3.6.3"
+  }
+}
